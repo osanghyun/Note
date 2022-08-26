@@ -1,6 +1,4 @@
-# Template Engine
-
-## Template System
+# Template System
 
 - 템플릿 프로세서를 사용하여 웹 템플릿과 결합하여 완성된 웹 페이지를 만들어내는 시스템.
 - Data를 결합하여 페이지를 만들어 내기도 하고 많은 양의 Content를 표현하는 것을 도와준다.
